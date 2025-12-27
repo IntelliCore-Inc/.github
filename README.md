@@ -35,10 +35,12 @@ To redefine cross-platform development by merging the speed and elegance of Flut
 #### Our Approach
 
 **Dart & Flutter First:** We harness the full potential of Dart’s sound null safety, asynchronous programming model, and Flutter’s reactive framework to build maintainable, scalable apps from a single codebase.
+
 **Native When It Matters:** For features requiring deep OS integration—such as advanced camera control, custom sensors, platform-specific UI gestures, or performance-critical animations—we develop tightly integrated Kotlin (Android) and Swift (iOS) modules using Flutter’s platform channels.
+
 **User-Centric Design:** Every pixel is intentional. We adhere strictly to Material Design 3 on Android and Human Interface Guidelines on iOS, ensuring your app feels familiar and intuitive to every user.
 
-Engineering Excellence: Clean architecture, test-driven development, CI/CD automation, and comprehensive documentation aren’t optional—they’re standard practice.
+**Engineering Excellence:** Clean architecture, test-driven development, CI/CD automation, and comprehensive documentation aren’t optional—they’re standard practice.
 
 **Why Clients Choose Us**
 
@@ -130,4 +132,5 @@ Whether you’re launching an MVP or scaling an enterprise application, IntelliC
 </div>
 
 ### 
+
 
